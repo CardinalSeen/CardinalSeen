@@ -1,14 +1,22 @@
-### Hi there 👋, I'm Marc Sandrino!
+### Hi there 👋, I'm Marc Alvin Sandrino!
 
 - 🔭 **I’m currently working on:** Building scalable data pipelines & modern cloud data architecture
 - 🌱 **I’m currently learning:** Advanced Databricks integrations & AI engineering workflows
 - 👯 **I’m looking to collaborate on:** Open-source data engineering & cloud data initiatives
 - 👩‍🏫 **Teaching & Mentorship:** Technical Support Instructor at **For The Women (FTW) Foundation**
 - 🤝 **Community Involvement:** Technical Contributor at **Data Engineering Pilipinas**, **AWS User Group Philippines**, and **Python Philippines**
-- ✍️ **Articles & Publications:** Read my Cloud Data Engineering articles on [AWS Builder Center](https://builder.aws.com/community/@cardinalseen) *(replace with your direct profile/article link)*
+- ✍️ **Articles & Publications:** Read my Cloud Data Engineering articles on [AWS Builder Center](https://builder.aws.com/community/@cardinalseen)
 - 💬 **Ask me about:** Data Engineering, AWS Cloud, dbt, SQL, and Databricks
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marc-sandrino-78927b112/)
 - ⚡ **Fun fact:** I enjoy playing casual games like Candy Crush & Plants vs. Zombies during my spare time!
+
+---
+
+### 🚀 Live Projects & Demos (AWS Data Engineer & Kiro)
+Check out some of my deployed applications and data dashboards:
+- 🌿 **Kiro Sustainable Living Frontend:** [Live App](https://kiro-sustainable-living-frontend.vercel.app/)
+- 📦 **Order Tracking System:** [Live App](https://order-tracking-system-lemon.vercel.app/)
+- 📊 **Kiro PH Data Dashboard:** [Live App](https://kiro-ph-data-dashboard.vercel.app/)
 
 ---
 
