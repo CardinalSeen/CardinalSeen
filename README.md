@@ -1,11 +1,11 @@
-### Hi there 👋, I'm Marc Alvin Sandrino!
+### Hi there 👋, I'm Marc Sandrino!
 
 - 🔭 **I’m currently working on:** Building scalable data pipelines & modern cloud data architecture
 - 🌱 **I’m currently learning:** Advanced Databricks integrations & AI engineering workflows
 - 👯 **I’m looking to collaborate on:** Open-source data engineering & cloud data initiatives
 - 👩‍🏫 **Teaching & Mentorship:** Technical Support Instructor at **For The Women (FTW) Foundation**
 - 🤝 **Community Involvement:** Technical Contributor at **Data Engineering Pilipinas**, **AWS User Group Philippines**, and **Python Philippines**
-- ✍️ **Articles & Publications:** Read my Cloud Data Engineering articles on [AWS Builder Center](https://aws.amazon.com/developer/community/builders/) *(replace with your direct profile/article link)*
+- ✍️ **Articles & Publications:** Read my Cloud Data Engineering articles on [AWS Builder Center](https://builder.aws/community/@cardinalseen) *(replace with your direct profile/article link)*
 - 💬 **Ask me about:** Data Engineering, AWS Cloud, dbt, SQL, and Databricks
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marc-sandrino-78927b112/)
 - ⚡ **Fun fact:** I enjoy playing casual games like Candy Crush & Plants vs. Zombies during my spare time!
