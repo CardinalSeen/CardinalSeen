@@ -1,10 +1,19 @@
-### Hi there 👋, I'm Marc Alvin Sandrino!
+### Hi there 👋, I'm Marc A. Sandrino!
 
 - 🔭 **I’m currently working on:** Building scalable data pipelines & modern cloud data architecture
 - 🌱 **I’m currently learning:** Advanced Databricks integrations & AI engineering workflows
 - 👯 **I’m looking to collaborate on:** Open-source data engineering & cloud data initiatives
 - 👩‍🏫 **Teaching & Mentorship:** Technical Support Instructor at **For The Women (FTW) Foundation**
-- 🤝 **Community Involvement:** Technical Contributor at **Data Engineering Pilipinas**, **AWS User Group Philippines**, and **Python Philippines**
+- 🤝 **Community Involvement:**
+  - Technical Contributor at **Data Engineering Pilipinas** *(The Puso Project - Culture Hub Australia)*
+  - Volunteer & Contributor at **AWS User Group Philippines** and **Python Philippines**
+- 🌙 **Daily Workflow:** I do my code reviews and data quality checks in the evening.
+- 📖 **Books I'm Reading / Have Read:**
+  - *Fundamentals of Data Engineering* by Joe Reis & Matt Housley
+  - *Designing Data-Intensive Applications* by Martin Kleppmann
+  - *Data Engineering with Python* by Paul Crickard
+  - *Data Engineering with AWS* by Gareth Eagar
+  - *Modern Database Management* by Jeffrey A. Hoffer, Ramesh Venkataraman, & Heikki Topi
 - ✍️ **Articles & Publications:** Read my Cloud Data Engineering articles on [AWS Builder Center](https://builder.aws.com/community/@cardinalseen)
 - 💬 **Ask me about:** Data Engineering, AWS Cloud, dbt, SQL, and Databricks
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/marc-sandrino-78927b112/)
@@ -12,7 +21,7 @@
 
 ---
 
-### 🚀 Live Projects & Demos (AWS Data Engineer & Kiro)
+### 🚀 Live Projects & Demos (AWS & Kiro)
 Check out some of my deployed applications and data dashboards:
 - 🌿 **Kiro Sustainable Living Frontend:** [Live App](https://kiro-sustainable-living-frontend.vercel.app/)
 - 📦 **Order Tracking System:** [Live App](https://order-tracking-system-lemon.vercel.app/)
@@ -45,6 +54,9 @@ Check out some of my deployed applications and data dashboards:
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS_CloudTrail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
